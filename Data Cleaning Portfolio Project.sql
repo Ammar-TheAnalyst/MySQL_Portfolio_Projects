@@ -3,6 +3,7 @@
 Data Cleaning in SQL Queries
 
 */
+
 USE project;
 
 SELECT *
